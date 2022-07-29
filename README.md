@@ -3,7 +3,6 @@
 I do Python and soon I'll learn JS and Solidity
 
 The biggest project I made was this ProBot Tax bot made with Python!
-(will be on github soon)
 
 
 My discord: Clockodilee#6667
